@@ -1,0 +1,1 @@
+# 请输入这个程序的功能 # pip install -i https://pypi.tuna.tsinghua.edu.cn/simple xxxx # 打包命令 pyinstaller xxxxxxxx --onefile --icon=xxxxxxxxxx #
