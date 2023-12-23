@@ -1,4 +1,4 @@
-# 请输入这个程序的功能  下饭 
+#   下饭 
 # pyinstaller D:\pythonxiangmu\zidonghua\main9.py --onefile --icon=tubiao.ico
 
 

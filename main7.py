@@ -1,4 +1,4 @@
-# 请输入这个程序的功能 
+# 
 # pyinstaller D:\pythonxiangmu\zidonghua\main7.py --onefile --icon=tubiao.ico
 # "C:/Users/86152/Desktop/test1.mp4"
 

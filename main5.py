@@ -1,4 +1,4 @@
-# 请输入这个程序的功能 ：自动化操作键鼠 pr 
+# 自动化操作键鼠 pr 
 # pyinstaller D:\pythonxiangmu\zidonghua\main5.py --onefile --icon=tubiao.ico
 
 
